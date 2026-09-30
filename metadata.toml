@@ -1,0 +1,17 @@
+[portfolio]
+title = "LaTeX Typesetting Portfolio"
+version = "0.0.1"
+
+[author]
+name = "Akayo Kiyoshima"
+institution = "Independent"
+github = "https://github.com/moderubias"
+
+[projects.cv]
+source = "cv/main.tex"
+
+[projects.math-monograph]
+source = "projects/math-monograph/main.tex"
+
+[projects.word2tex]
+source = "projects/word2tex/main.tex"
